@@ -28,4 +28,3 @@ Esta é uma aplicação simples que permite ao usuário pesquisar e visualizar i
 ## CREDITOS:
 - [PROJETO CRIADO PELO "manualdodev"](https://github.com/manualdodev/pokedex)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
